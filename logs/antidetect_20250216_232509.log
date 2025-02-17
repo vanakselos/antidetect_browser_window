@@ -1,0 +1,8 @@
+2025-02-16 23:25:09,286 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'show_menu'
+2025-02-16 23:25:09,286 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'show_menu'
+2025-02-16 23:25:09,286 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'show_menu'
+2025-02-16 23:25:09,286 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'show_menu'
+2025-02-16 23:25:09,291 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'show_menu'
+2025-02-16 23:25:09,291 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'show_menu'
+2025-02-16 23:25:09,291 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'show_menu'
+2025-02-16 23:25:09,291 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'show_menu'

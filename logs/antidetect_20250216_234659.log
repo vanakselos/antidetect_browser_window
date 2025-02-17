@@ -1,0 +1,1 @@
+2025-02-16 23:47:07,870 - AntiDetectBrowser.src.core.chrome_launcher - ERROR - Error creating Chrome driver: [Errno 2] No such file or directory: 'C:\\Users\\VA\\.wdm\\drivers\\chromedriver\\win64\\132.0.6834.197\\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver.exe'

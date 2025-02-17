@@ -1,0 +1,27 @@
+{
+    "browser": {
+        "default_user_data_dir": "profiles",
+        "chrome_version": "latest",
+        "launch_timeout": 30
+    },
+    "proxy": {
+        "enabled": false,
+        "type": "http",
+        "host": "",
+        "port": "",
+        "username": "",
+        "password": ""
+    },
+    "profiles": {
+        "max_concurrent": 5,
+        "auto_save": true
+    },
+    "ui": {
+        "theme": "light",
+        "language": "en",
+        "window_size": {
+            "width": 1000,
+            "height": 600
+        }
+    }
+}
