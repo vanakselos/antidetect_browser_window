@@ -18,19 +18,16 @@ class BrowserManager:
             return False
 
     def launch_profile(self, profile_name: str) -> bool:
-        try:
-            profile = self.profile_manager.get_profile(profile_name)
-            if not profile:
-                return False
+        profile = self.profile_manager.get_profile(profile_name)
+        if not profile:
+            return False
 
-            driver = self.chrome_launcher.launch(profile)
-            if driver:
-                self.active_browsers[profile_name] = driver
-                return True
-            return False
-        except Exception as e:
-            self.logger.error(f"Error launching profile: {e}")
-            return False
+        driver = self.chrome_launcher.launch(profile)
+        if driver:
+            self.active_browsers[profile_name] = driver
+            return True
+        return False
+
 
     def cleanup(self):
         try:

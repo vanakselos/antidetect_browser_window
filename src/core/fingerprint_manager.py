@@ -22,7 +22,7 @@ class FingerprintManager:
         # Return default data if file doesn't exist or loading fails
         return {
             'user_agents': [
-                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+                # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6938.0 Safari/537.36',
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
                 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0',
@@ -59,11 +59,11 @@ class FingerprintManager:
                 'Intel Iris OpenGL Engine'
             ],
             'screen_resolutions': [
-                (1920, 1080),
-                (1366, 768),
-                (1440, 900),
-                (1536, 864),
-                (2560, 1440),
+                # (1920, 1080),
+                # (1366, 768),
+                # (1440, 900),
+                # (1536, 864),
+                # (2560, 1440),
                 (3840, 2160)
             ],
             'color_depths': [24, 32],
