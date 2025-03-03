@@ -1,1 +1,0 @@
-2025-02-16 23:07:42,053 - AntiDetectBrowser.src.core.profile_manager - ERROR - Error creating profile: cannot import name 'FingerprintManager' from 'src.core.fingerprint_manager' (D:\antidetect_browser_window\src\core\fingerprint_manager.py)

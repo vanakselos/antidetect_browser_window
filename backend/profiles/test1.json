@@ -1,0 +1,26 @@
+{
+    "name": "test1",
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "platform": "Win32",
+        "language": "zh-CN",
+        "screen_resolution": [
+            3840,
+            2160
+        ],
+        "color_depth": 32,
+        "pixel_ratio": 1.5,
+        "hardware_concurrency": 2,
+        "memory": 32,
+        "timezone": "Australia/Sydney",
+        "webgl_vendor": "Apple Computer, Inc.",
+        "webgl_renderer": "ANGLE (NVIDIA GeForce GTX 1060 Direct3D11 vs_5_0)",
+        "canvas_noise": "9eef6418-b5ef-4805-a182-2b84996010a5",
+        "touch_support": true,
+        "vendor": "Intel Inc.",
+        "renderer": "Metal"
+    },
+    "cookies": {},
+    "proxy": null,
+    "history": []
+}

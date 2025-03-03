@@ -1,0 +1,26 @@
+{
+    "name": "test3",
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "platform": "Linux x86_64",
+        "language": "en-US",
+        "screen_resolution": [
+            3840,
+            2160
+        ],
+        "color_depth": 32,
+        "pixel_ratio": 1.5,
+        "hardware_concurrency": 2,
+        "memory": 16,
+        "timezone": "Europe/Berlin",
+        "webgl_vendor": "Intel Inc.",
+        "webgl_renderer": "Metal",
+        "canvas_noise": "0b70f92b-6280-464a-b271-788381b0656a",
+        "touch_support": false,
+        "vendor": "Intel Inc.",
+        "renderer": "Intel Iris OpenGL Engine"
+    },
+    "cookies": {},
+    "proxy": null,
+    "history": []
+}

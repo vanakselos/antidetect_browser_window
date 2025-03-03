@@ -1,8 +1,0 @@
-2025-02-16 23:27:09,720 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'apply_styles'
-2025-02-16 23:27:09,720 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'apply_styles'
-2025-02-16 23:27:09,721 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'apply_styles'
-2025-02-16 23:27:09,721 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'apply_styles'
-2025-02-16 23:27:09,721 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'apply_styles'
-2025-02-16 23:27:09,721 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'apply_styles'
-2025-02-16 23:27:09,722 - AntiDetectBrowser.src.ui.profile_card - ERROR - Error initializing profile card UI: 'ProfileCard' object has no attribute 'apply_styles'
-2025-02-16 23:27:09,722 - AntiDetectBrowser.src.ui.main_window - ERROR - Error adding profile card: 'ProfileCard' object has no attribute 'apply_styles'
